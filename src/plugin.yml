@@ -1,0 +1,20 @@
+main: com.rizerman.heal.main
+name: Heal
+description: A basic heal plugin
+version: 1.0
+
+commands:
+  hello:
+    description: Perform the hello command!
+  goodbye:
+    description: Say goodbye my little friend!
+  menu:
+    description: Equips the player with stuff
+  website:
+    description: Gives a link the our website!
+  Seed:
+    description: Gives the Seed of the world!
+  Fly:
+    description: Toggle fly
+  gamemode:
+    description: Change the gamemode of the player
